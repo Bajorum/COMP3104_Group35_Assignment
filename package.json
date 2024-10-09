@@ -1,0 +1,14 @@
+{
+  "name": "comp3104_group35_assignment",
+  "version": "1.0.0",
+  "description": "group assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "build": "echo \"No build step required\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
