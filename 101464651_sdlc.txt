@@ -5,3 +5,5 @@ DevOps helps us improve our collaboration.
 There is a lot of learning invoolved. 
 
 DevOps is a great way to learn programming
+
+In summary, SDLC is a traditional approach to software development that focuses on the structured process
