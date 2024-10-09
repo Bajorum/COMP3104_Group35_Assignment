@@ -1,0 +1,4 @@
+Importance of DevOps in the SDLC.
+DevOps benefits: faster release cycles, improved product quality.
+Corrected typos in DevOps benefits section.
+Final review of DevOps in SDLC.
