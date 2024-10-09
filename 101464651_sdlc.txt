@@ -1,0 +1,13 @@
+DevOps is essential in the SDLC because it bridges the gap between development and operations, promoting automation and continuous delivery. It enables faster releases, efficient bug tracking, and improved collaboration across teams.
+
+DevOps helps us improve our collaboration.
+
+There is a lot of learning invoolved. 
+
+DevOps is a great way to learn programming
+
+In summary, SDLC is a traditional approach to software development that focuses on the structured process
+
+SDLC provides a clear roadmap and timeline for software production and prevents unclear and overlapping objectives
+
+Agile and Waterfall are both Software Development Lifecycle (SDLC) methodologies.
