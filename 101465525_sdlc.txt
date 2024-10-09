@@ -1,3 +1,5 @@
 DevOps is a set of practices that automates and integrates the processes between software development (Dev) and IT operations (Ops).
 It aims to shorten the development lifecycle and deliver high-quality software continuously.
 
+DevOps promotes Continuous Integration (CI) and Continuous Deployment (CD), ensuring that new code changes are automatically tested, built, and deployed to production.
+This accelerates the release process and improves software quality by catching bugs early.
