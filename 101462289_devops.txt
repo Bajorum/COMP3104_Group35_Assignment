@@ -4,3 +4,4 @@ Students learn to work collaboratively in teams, implement CI/CD pipelines using
 The course aims to prepare students for real-world DevOps practices, focusing on improving the efficiency and quality of software delivery.
 COMP 3104 course description added.
 Key topics covered in COMP 3104 include CI/CD and automation tools.
+Final review of course details.
