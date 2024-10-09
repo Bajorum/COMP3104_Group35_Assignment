@@ -7,3 +7,5 @@ There is a lot of learning invoolved.
 DevOps is a great way to learn programming
 
 In summary, SDLC is a traditional approach to software development that focuses on the structured process
+
+SDLC provides a clear roadmap and timeline for software production and prevents unclear and overlapping objectives
