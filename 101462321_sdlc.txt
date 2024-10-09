@@ -1,0 +1,1 @@
+DevOps enhances SDLC by integrating continuous testing and deployment, allowing for immediate feedback and faster iteration cycles.
