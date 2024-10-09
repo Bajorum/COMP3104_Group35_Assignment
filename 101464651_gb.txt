@@ -6,3 +6,5 @@ George Brown has three locations.
 
 One of the locations of georgebrown is St.James.
 Another location is Waterfront. 
+
+George Brown has a lot of elective programs
