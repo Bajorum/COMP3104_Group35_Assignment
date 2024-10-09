@@ -1,0 +1,3 @@
+COMP 3104 focuses on teaching students the core principles of DevOps, including continuous integration, continuous delivery, version control systems, and automation tools like GitHub Actions and Jenkins.
+
+DevOps is a fun class and you can learn so many things.

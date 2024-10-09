@@ -1,0 +1,7 @@
+DevOps is essential in the SDLC because it bridges the gap between development and operations, promoting automation and continuous delivery. It enables faster releases, efficient bug tracking, and improved collaboration across teams.
+
+DevOps helps us improve our collaboration.
+
+There is a lot of learning invoolved. 
+
+DevOps is a great way to learn programming
