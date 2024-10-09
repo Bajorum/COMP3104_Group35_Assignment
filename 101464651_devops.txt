@@ -4,3 +4,4 @@ DevOps is a fun class and you can learn so many things.
 
 DevOps is a methodology in the software development and IT industry.
 
+The term was formed by combining “development” and “operations,” which provides a starting point for understanding exactly what people typically mean when they say “DevOps.” 
