@@ -1,7 +1,7 @@
 # COMP3104_Group35_Assignment
 # COMP3104 Group35 Assignment Overview
-- Bilal Youssef (101462289)
-# COMP3104_Group1_Assignment ## Group Members - **Leader:** Pritesh Patel (1023756) - [GitHub](https://github.com/priteshpatel) - **Member 2:** Jason Gunawan (101465525) - [GitHub](https://github.com/AureliusJ) - **Member 3:** Riyad Youssef (101462321) - [GitHub](https://github.com/johnsmith) 
+# COMP3104_Group1_Assignment ## Group Members - **Leader:** Bilal Youssef (101462289) - [GitHub](https://github.com/Bajorum) - **Member 2:** Jason Gunawan (101465525) - [GitHub](https://github.com/AureliusJ) - **Member 3:** Riyad Youssef (101462321) - [GitHub](https://github.com/johnsmith) - **Member 4:** Jason Opoku (101347926) - [GitHub](https://github.com/JasonO0619) - **Member 5:** Siam Hasan (101464651) - [GitHub](https://github.com/siam9922) 
+
 
 
 ## Project Description : A group project for COMP3104 focused on GitHub repository management, branching strategies, and CI/CD integration using GitHub Actions.
