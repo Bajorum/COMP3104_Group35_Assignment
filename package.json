@@ -1,0 +1,12 @@
+{
+  "name": "comp3104_group35_assignment",
+  "version": "1.0.0",
+  "description": "- Bilal Youssef (101462289)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
